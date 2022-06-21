@@ -1,2 +1,2 @@
-# uyyu-
-uıııuıuuı
+csc
+csc
